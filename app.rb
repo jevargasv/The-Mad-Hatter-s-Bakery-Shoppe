@@ -1,10 +1,10 @@
 require 'sinatra'
+require 'sendgrid-ruby'
+include SendGrid
 require_relative 'menu'
 # require 'sinatra-reloader'
 # using SendGrid's Ruby Library
 # https://github.com/sendgrid/sendgrid-ruby
-require 'sendgrid-ruby'
-include SendGrid
 
 # Also can be redirected (linked) to "home" and the logo of the website
 get '/' do
