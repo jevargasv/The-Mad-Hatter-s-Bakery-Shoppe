@@ -11,3 +11,6 @@ Creating a dummy website using Sinatra/Ruby and the SendGrid API
 
 # Heroku link
 http://the-mad-hatters-bakery-shoppe.herokuapp.com/
+
+# Authors:
+Jennifer Vargas of NYCDA, August 7, 2018
