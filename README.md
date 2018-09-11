@@ -1,3 +1,6 @@
+# The-Mad-Hatters-Bakery-Shoppe
+Creating a dummy website using Sinatra/Ruby and the SendGrid API
+
 # Goal:
 To create a fullstack bakery website that displays information on cookies, cakes and muffins offered for sale as well as enables someone to receive a catalog of items sold via email.
 
@@ -24,9 +27,6 @@ Examples (Inspiration):
 https://bakedbyyael.myshopify.com/collections/cakepops (Links to an external site.)Links to an external site.
 http://thecupcakeshopperaleigh.com/ (Links to an external site.)Links to an external site.
 http://www.sugarlandchapelhill.com/ (Links to an external site.)Links to an external site.
-
-# The-Mad-Hatters-Bakery-Shoppe
-Creating a dummy website using Sinatra/Ruby and the SendGrid API
 
 # Main Page of the Website
 ![alt text](https://github.com/jevargasv/The-Mad-Hatters-Bakery-Shoppe/blob/master/Main%20Page)
