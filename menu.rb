@@ -10,7 +10,7 @@ end
 
 # EAT ME! - Food Items
 
-class Cookie < Menu
+class Biscuit < Menu
     attr_accessor :name, :src, :price, :description
     def initialize(name, src, price, description)
         super(name, src, price, description)

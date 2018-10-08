@@ -1,166 +1,132 @@
 /* Body */
-
 body {
-    background-color: white;
-    margin: 0 auto;
-}
+  background-color: white;
+  margin: 0 auto; }
+
 .main-container {
-    display: block;
-}
+  display: block; }
 
 /* Header */
-
 .main-header {
-    display: block;
-}
-  
+  display: block; }
+
 .navbar-container {
-    display: block;
-}
-  
+  display: block; }
+
 #navbar {
-    display: block;
-}
-  
+  display: block; }
+
 #logo-image {
-    display: block;
-}
-  
+  display: block; }
+
 #logo-image img {
-    height: auto;
-    width: 20%;
-    padding-top: 40px;
-    margin-left: 70px;
-}
-  
+  height: auto;
+  width: 20%;
+  padding-top: 40px;
+  margin-left: 70px; }
+
 #main-navigation {
-    list-style: none;
-    text-align: right;
-    margin: auto;
-    padding-right: 52px;
-    margin-top: -190px;  
-}
-  
+  list-style: none;
+  text-align: right;
+  margin: auto;
+  padding-right: 52px;
+  margin-top: -190px; }
+
 #main-navigation-ul li {
-    display: inline-block;
-    font-family: "Burton's Dreams Pro";
-    font-weight: bold;
-    padding: 30px 10px;
-    text-decoration: none;
-    list-style-type: none;
-}
-  
+  display: inline-block;
+  font-family: "Burton's Dreams Pro";
+  font-weight: bold;
+  padding: 30px 10px;
+  text-decoration: none;
+  list-style-type: none; }
+
 #main-navigation-ul a {
-    display: block;
-    padding: 30px 10px;
-    text-decoration: none;
-    color: teal;
-    font-size: 30px;
-}
-  
+  display: block;
+  padding: 30px 10px;
+  text-decoration: none;
+  color: teal;
+  font-size: 30px; }
+
 #main-navigation-ul a:hover {
-    color: turquoise;
-}
+  color: #5ea79f; }
 
 /* Main Content */
-
 .main-headline {
-    display: block;
-}
-  
+  display: block; }
+
 .main-headline h1 {
-    font-size: 50px;
-    font-family: "Burton's Dreams Pro";
-    color: purple;
-    text-align: center;
-    margin-top: 80px;
-    padding-bottom: 30px;
-}
+  font-size: 50px;
+  font-family: "Burton's Dreams Pro";
+  color: purple;
+  text-align: center;
+  margin-top: 80px;
+  padding-bottom: 30px; }
 
 .menu-items {
-    display: block;
-}
+  display: block; }
 
 .menu-items h2 {
-    font-size: 50px;
-    font-family: "Burton's Dreams Pro";
-    color: purple;
-    text-align: center;
-    margin-top: 50px;
-    padding-bottom: 40px;
-}
-
-.d-block w-100 img {
-    height: auto;
-    width: 20%;
-}
+  font-size: 50px;
+  font-family: "Burton's Dreams Pro";
+  color: purple;
+  text-align: center;
+  margin-top: 50px;
+  padding-bottom: 40px; }
 
 .card {
-    border: none;
-    border-radius: none;
-    margin-right: 36px;
-}
+  border: none;
+  border-radius: none; }
 
 .card-img-top {
-    width: 100%;
-    height: 15vw;
-    object-fit: cover;
-    border-radius: none;
-}
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+  border-radius: none; }
 
 h5 {
-    color: purple;
-    text-align: center;
-    font-family: "Burton's Dreams Pro";
-    font-size: 24px;
-}
+  color: purple;
+  text-align: center;
+  font-family: "Burton's Dreams Pro";
+  font-size: 24px; }
 
 h7 {
-    color: teal;
-    text-align: center;
-    font-family: "Burton's Dreams Pro";
-    font-size: 22px;
-}
+  color: teal;
+  text-align: center;
+  font-family: "Burton's Dreams Pro";
+  font-size: 22px; }
 
 p {
-    color: turquoise;
-    font-family: "Burton's Dreams Pro";
-    font-size: 24px;
-    margin-left: 75px;
-    margin-top: 20px;
-}
+  color: turquoise;
+  font-family: "Burton's Dreams Pro";
+  font-size: 24px;
+  margin-left: 100px;
+  margin-top: 20px; }
 
 footer {
-    background-color: purple;
-    padding: 30px 30px;
-    margin-top: 50px;
-}
+  background-color: purple;
+  padding: 30px 30px;
+  margin-top: 50px; }
 
 .footer-container {
-    display: block;
-}
+  display: block; }
 
 .input-group {
-    margin-top: 25px;
-    margin-left: 5px;
-}
+  margin-top: 25px;
+  margin-left: 5px; }
 
 .icon-wrapper {
-    display: inline-block;
-    text-align: right;
-    margin: 0 auto;
-    list-style-type: none;
-    position: absolute;
-    right: -660px;
-    top: 40px;
-
-}
+  display: inline-block;
+  text-align: right;
+  margin: 0 auto;
+  list-style-type: none;
+  position: absolute;
+  right: -660px;
+  top: 40px; }
 
 .icon-wrapper li {
-    display: inline-block;
-}
+  display: inline-block; }
 
 .icon-wrapper a {
-    display: inline-block;
-}
+  display: inline-block; }
 
+/*# sourceMappingURL=main.css.map */
